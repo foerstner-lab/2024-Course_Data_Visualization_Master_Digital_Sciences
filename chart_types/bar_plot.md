@@ -7,6 +7,8 @@
 
 - [Example](./bar_plot.ipynb)
 
+![Bar plot example](bar_plot.png "Barplot")
+
 ## Multiple choice questions
 
 Which type of bar plot is commonly used to compare the distribution of
